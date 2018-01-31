@@ -10,6 +10,6 @@ export default {
 
     primary: '#444A4A',
     secondary: '#7A91CA',
-    
+
     background: '#FBFAFF',
 };

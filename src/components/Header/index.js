@@ -17,7 +17,6 @@ export default class Header extends Component {
         AsyncStorage.removeItem('@Githuber:username')
             .then(() => {
                 const { dispatch } = this.props.navigation;
-                console.tron.log(dispatch);
 
                 const resetAction = NavigationActions.reset({
                     index: 0,

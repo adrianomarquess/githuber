@@ -20,7 +20,7 @@
         "import/prefer-default-export": "off",        
         "react/jsx-indent": [1, 4],
         "indent": [1, 4],
-        "react/jsx-indent-props": [1, 4],        
+        "react/jsx-indent-props": [1, 4]
     },
     "globals": {
         "__DEV__": true
